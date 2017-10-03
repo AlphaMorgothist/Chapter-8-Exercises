@@ -1,0 +1,4 @@
+﻿  Chapter8Exercises.cpp
+c:\users\denisa craus\source\repos\chapter 8 exercises\chapter 8 exercises\chapter8exercises.cpp(319): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chapter 8 Exercises.vcxproj -> C:\Users\Denisa Craus\source\repos\Chapter 8 Exercises\Debug\Chapter 8 Exercises.exe
+  Chapter 8 Exercises.vcxproj -> C:\Users\Denisa Craus\source\repos\Chapter 8 Exercises\Debug\Chapter 8 Exercises.pdb (Partial PDB)
